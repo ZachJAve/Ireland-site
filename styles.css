@@ -1,0 +1,29 @@
+h1 {
+    color: orangered;
+    text-align: center;  
+}
+
+ul{
+    border: 5px dashed;
+    text-align: center;
+    list-style: none;
+    padding-left: 0%;
+    width: 50%;
+    margin-left: 25%;
+}
+ul li{
+    border: 3px outset;
+    display: inline-block;
+}
+
+img{
+    display: inline-block;
+    width: 50%;
+    border: 7px solid;
+    margin-left: 25%;
+}
+
+p{
+    text-align: center;
+}
+
